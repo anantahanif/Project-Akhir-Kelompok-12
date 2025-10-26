@@ -9,12 +9,11 @@ FARIZ AUFARIZKY 2509116004
 
 # FLOWCHART
 
-<img width="6255" height="6210" alt="Flowchart PA DDP viks-Menu Utama drawio" src="https://github.com/user-attachments/assets/99469cff-5ef9-49c1-953c-435ccbc47d09" />
+<img width="5595" height="6760" alt="Flowchart PA DDP viks-Menu Utama drawio" src="https://github.com/user-attachments/assets/4362aee3-c63b-404a-9976-a6257124fb8a" />
 
-<img width="5910" height="5205" alt="Flowchart PA DDP viks-Menu Admin drawio" src="https://github.com/user-attachments/assets/6983bffe-9b4d-481b-9f8b-1011348f8143" />
+<img width="5310" height="5205" alt="Flowchart PA DDP viks-Menu Admin drawio" src="https://github.com/user-attachments/assets/a62d20c8-afe3-4620-9679-75e362be6d34" />
 
-<img width="6755" height="5255" alt="Flowchart PA DDP viks-Menu Penyewa drawio (1)" src="https://github.com/user-attachments/assets/fae1790d-b130-4f49-9f71-4a04efef6619" />
-
+<img width="5685" height="5255" alt="Flowchart PA DDP viks-Menu Penyewa drawio" src="https://github.com/user-attachments/assets/a4101357-bfa3-4da6-bf6d-9ccb495adaee" />
 
 # SISTEM RESERVASI TENANT BAZAR
 
