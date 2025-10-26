@@ -1,0 +1,29 @@
+{
+    "Akun": [
+        {
+            "username": "Ananta",
+            "password": "2244",
+            "e-money": 1000000
+        },
+        {
+            "username": "Zara",
+            "password": "5577",
+            "e-money": 550000
+        },
+        {
+            "username": "Faris",
+            "password": "1133",
+            "e-money": 900000
+        },
+        {
+            "username": "Ais",
+            "password": "12345",
+            "e-money": 900000
+        },
+        {
+            "username": "atha",
+            "password": "1234",
+            "e-money": 0
+        }
+    ]
+}
