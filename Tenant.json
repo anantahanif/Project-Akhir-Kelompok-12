@@ -1,0 +1,60 @@
+{
+    "Tenant": [
+        {
+            "nomor_tenant": "2",
+            "nama_tenant": "Baju",
+            "harga_per_hari": "750000",
+            "status": "Tersedia",
+            "slot_tersedia": "5"
+        },
+        {
+            "nomor_tenant": "3",
+            "nama_tenant": "Kerajinan Tangan",
+            "harga_per_hari": "450000",
+            "status": "Tersedia",
+            "slot_tersedia": "10"
+        },
+        {
+            "nomor_tenant": "4",
+            "nama_tenant": "Alat Elektronik",
+            "harga_per_hari": "600000",
+            "status": "Tersedia",
+            "slot_tersedia": "8"
+        },
+        {
+            "nomor_tenant": "5",
+            "nama_tenant": "Dekorasi & Furniture",
+            "harga_per_hari": "650000",
+            "status": "Tersedia",
+            "slot_tersedia": "6"
+        },
+        {
+            "nomor_tenant": "6",
+            "nama_tenant": "Peralatan Rumah Tangga",
+            "harga_per_hari": "550000",
+            "status": "Tersedia",
+            "slot_tersedia": "6"
+        },
+        {
+            "nomor_tenant": "7",
+            "nama_tenant": "perlengkapan sekolah",
+            "harga_per_hari": "350000",
+            "status": "Tersedia",
+            "slot_tersedia": "2"
+        },
+        {
+            "nomor_tenant": "8",
+            "nama_tenant": "Accesories",
+            "harga_per_hari": "900000",
+            "status": "Tersedia",
+            "slot_tersedia": "3"
+        },
+        {
+            "nomor_tenant": "9",
+            "nama_tenant": "Mainan",
+            "harga_per_hari": "600000",
+            "status": "Tersedia",
+            "slot_tersedia": "2"
+        }
+    ]
+}
